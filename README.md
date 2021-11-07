@@ -7,7 +7,7 @@
 - 🌱 Extremely passionate about not starving to death. 🤣
 - 🤦 Sarcasm connoisseur.
 - 🐱‍👤 Don’t tell anyone, but I’m a ninja.
-- ⚡ Fun fact: I love to draw
+
 
 ### find me:
 
