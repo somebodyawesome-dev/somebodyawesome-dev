@@ -55,4 +55,4 @@
 [facebook]: https://www.facebook.com/somebodyawesome2011830/
 [hackerrank]: https://www.hackerrank.com/luckynoob2011830
 [instagram]: https://www.instagram.com/bsh.twl/
-[linkedin]: https://www.linkedin.com/in/touil-mouhammed-a0a335189/
+[linkedin]: https://www.linkedin.com/in/mohamed-bashar-touil-a0a335189/
