@@ -1,5 +1,8 @@
 ### Hi there, I'm Bachar - aka Somebodyawesome 👋
-
+<p align="center">
+<a href="https://www.linkedin.com/in/mohamed-bashar-touil-a0a335189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-somebodyawesome-lightgrey?logo=linkedin"></a>
+ <a href="https://stackoverflow.com/users/15662640/somebodyawful"><img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-SomebodyAwful-lightgrey?style=flat&logo=stackoverflow"></a>
+ </p>
 ## I'm a Gamer, Developer, Memer, and Otaku!!
 
 - 🥱 i wish i was dinosaur. no school no works , just ror ror 🦖🦖
@@ -8,6 +11,13 @@
 - 🤦 Sarcasm connoisseur.
 - 🐱‍👤 Don’t tell anyone, but I’m a ninja.
 
+
+<div>
+<a href="https://github.com/somebodyawesome-dev">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=somebodyawesome-dev&include_all_commits=true&count_private=true&theme=radical" alt="somebodyawesome-dev" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somebodyawesome-dev&layout=compact&show_icons=true&locale=en&theme=radical" alt="somebodyawesome-dev" />
+</a>
+</div>
 
 ### find me:
 
