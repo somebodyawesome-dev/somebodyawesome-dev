@@ -1,4 +1,3 @@
-### Hi there, I'm Bachar - aka Somebodyawesome 👋
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamed-bashar-touil-a0a335189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-somebodyawesome-lightgrey?logo=linkedin"></a>
  <a href="https://stackoverflow.com/users/15662640/somebodyawful"><img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-SomebodyAwful-lightgrey?style=flat&logo=stackoverflow"></a>
