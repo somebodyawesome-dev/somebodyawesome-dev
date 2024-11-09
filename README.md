@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamed-bashar-touil-a0a335189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-somebodyawesome-lightgrey?logo=linkedin"></a>
  <a href="https://stackoverflow.com/users/15662640/somebodyawful"><img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-SomebodyAwful-lightgrey?style=flat&logo=stackoverflow"></a>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somebodyawesome-dev&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="somebodyawesome-dev" />
+ <img src="https://komarev.com/ghpvc/?username=somebodyawesome-dev&label=Profile%20views&color=0e75b6&style=flat" alt="somebodyawesome-dev" />
  </p>
 
 
